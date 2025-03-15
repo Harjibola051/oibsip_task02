@@ -1,8 +1,8 @@
-# customer segmentation
 # customer_segmentation_analysis
+
 ## Project Overview
 
-**Project Title**: Customer-Segmentation Analysis. 
+
 ### dataset link: [https://www.kaggle.com/code/analystoleksandra/marketing-analytics-customer-segmentation/notebook?select=ifood_df.csv](https://www.kaggle.com/datasets/jackdaoud/marketing-data)
 
 
