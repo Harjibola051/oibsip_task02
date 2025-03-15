@@ -1,2 +1,1 @@
-# oibis_task02
-customer segmentation
+# customer segmentation
